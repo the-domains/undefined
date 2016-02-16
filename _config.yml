@@ -1,7 +1,7 @@
 name: Undefined
 favicon: null
-layout_spectrum: 0.09648243291303515
-typography_spectrum: 0.24723220174200833
+layout_spectrum: 0.62452
+typography_spectrum: 0.69015
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.5309655566234142
-  lightness: 0.3025332922115922
+  lightness: 0.75
   saturation: 0.10975258448161185
   rhythmicContrast: 0.3855024816002697
 purpose: []
